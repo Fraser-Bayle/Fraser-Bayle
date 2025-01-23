@@ -1,6 +1,6 @@
 Hello World!
 
-I'm Fraser, a MSc by Research software engineer currently studying at Oxford Brookes University.
+I'm Fraser, a MSc by Research computational neuroscientist currently studying at Oxford Brookes University.
 
 This gitHub account will be primarily used for storage of collaborative projects, and to
 source new ideas for these projects.
